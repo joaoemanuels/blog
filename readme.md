@@ -1,2 +1,2 @@
-<img src="md/index">
-<img src="md/index2">
+<img src="md/index.png">
+<img src="md/index2.png">
